@@ -20,7 +20,12 @@ function App() {
           <h2>4</h2>
           </ul>
         </nav>
+      <div className="ParaMerge">
+        <div className="Dentro">
+          
+        </div>
       </div>
+    </div>
     </div>
   );
 }
